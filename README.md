@@ -1,0 +1,1 @@
+# MotionBert-for-Group-activity-recognition
